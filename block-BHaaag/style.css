@@ -1,0 +1,14 @@
+body {
+  background-color: #22396a;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  color: #31bb66;
+}
+.underline {
+  color: red;
+  border-bottom: 1px solid red;
+  font-size: 15px;
+  margin-right: 25px;
+}
